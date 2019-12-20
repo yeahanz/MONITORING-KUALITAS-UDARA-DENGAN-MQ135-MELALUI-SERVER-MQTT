@@ -23,7 +23,7 @@ Use MQTTBox as MQTT Client
 http://workswithweb.com/mqttbox.html
 
 Demo Video at link :
-https://www.youtube.com/watch?v=FB87Ej6x24g&t=8s
+https://www.youtube.com/watch?v=FB87Ej6x24g
 
 Link Laporan : 
 https://drive.google.com/open?id=1P2MT3fgeKMgtaibmE_FBGsa_xF2cUxrT
